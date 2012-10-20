@@ -1,4 +1,2 @@
 kernel
 ======
-
-Modovi Kernel
